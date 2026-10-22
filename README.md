@@ -2,7 +2,7 @@ I'm Maryam, a Computer Science major + Data Science minor student at Rutgers, bu
 I'm focused on building things and getting them out there, not just coursework, and I'm putting them here as I go.
 
 What I'm working on:
-- Claude 101 + AI Fluency: Anthropic Academy certifs
+- Claude 101 + AI Fluency: Anthropic Academy certifs (Completed)
 - Building a Claude API tool that people can use
 - Building a neural network in PyTorch, with a training loop written from scratch.
 
